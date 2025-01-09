@@ -1,0 +1,8 @@
+/* App.css */
+
+/* Container for the whole application */
+.app-container {
+  display: flex;
+  height: 100vh; 
+}
+
